@@ -1,6 +1,5 @@
 import React from "react";
 import "./possibility.css";
-import { Feature } from "../../components";
 import possibility from "../../assets/possibility.png";
 
 function Possibility() {
